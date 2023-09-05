@@ -1,0 +1,64 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+.vs/电子散射/v16/.suo
+.vs/ProjectSettings.json
+.vs/电子散射/v16/Browse.VC.db
+.vs/VSWorkspaceState.json
+.vs/slnx.sqlite
+.vs/电子散射/v16/ipch/AutoPCH/10394268a79ca30b/EUPDATE.ipch
+.vs/电子散射/v16/ipch/AutoPCH/1551a53e23fb2440/CONFIRM.ipch
+.vs/电子散射/v16/ipch/AutoPCH/298ea727f8078bb/EUPDATE-2.ipch
+.vs/电子散射/v16/ipch/AutoPCH/41f14667f53b0147/FORMULA-2.ipch
+.vs/电子散射/v16/ipch/AutoPCH/48ad810febc7c13a/EUPDATE.ipch
+.vs/电子散射/v16/ipch/AutoPCH/561c037adba061d1/EUPDATE.ipch
+.vs/电子散射/v16/ipch/AutoPCH/567c363011fa36cb/MAIN.ipch
+.vs/电子散射/v16/ipch/AutoPCH/6b04067e59b7070e/EUPDATE-1.ipch
+.vs/电子散射/v16/ipch/AutoPCH/6e1403d5c6982e9c/EUPDATE.ipch
+.vs/电子散射/v16/ipch/AutoPCH/7ba40d7af57a425/EUPDATE.ipch
+.vs/电子散射/v16/ipch/AutoPCH/7c50312c2025d6f2/DRAWPIC.ipch
+.vs/电子散射/v16/ipch/AutoPCH/8456804df98857f1/PICTURES.ipch
+.vs/电子散射/v16/ipch/AutoPCH/a92ad7747dbade6a/FORMULA.ipch
+.vs/电子散射/v16/ipch/AutoPCH/b5bec5f8c9703e16/DATA.ipch
+.vs/电子散射/v16/ipch/AutoPCH/c9f4b55a6c4de615/EUPDATE.ipch
+.vs/电子散射/v16/ipch/AutoPCH/a3de6a046273b37c/FORMULA.ipch
+.vs/电子散射/v16/ipch/AutoPCH/bb2465b785e8b42/MAIN.ipch
+.vs/电子散射/v16/ipch/AutoPCH/c89c0ad8d7ed6d2c/INITIAL.ipch
+.vs/电子散射/v16/ipch/AutoPCH/b4a8c4127c5f5d11/EUPDATE.ipch
+.vs/电子散射/v16/ipch/AutoPCH/d1b5ce5e5a2a0312/EUPDATE.ipch
+.vs/电子散射/v16/ipch/AutoPCH/dd82e5e3ec211f31/LRQD.ipch
+.vs/电子散射/v16/ipch/AutoPCH/d69a04806e522bb0/FORMULA.ipch
+.vs/电子散射/v16/ipch/AutoPCH/e12edfd629e0d42/EUPDATE.ipch
+.vs/电子散射/v16/ipch/AutoPCH/cf6c55bd6d2ad490/FORMULA.ipch
+.vs/电子散射/v16/ipch/AutoPCH/f551da865258d315/EUPDATE.ipch
+.vs/电子散射/v16/ipch/AutoPCH/f67d5e16b071294b/DATA.ipch
+.vs/电子散射/v16/ipch/AutoPCH/fbbe716b8ba6ee52/FORMULA.ipch

@@ -1,0 +1,3 @@
+﻿  Initial.cpp
+D:\程序\电子散射\电子散射\formula.h(242): warning C4715: “scatterang”: 不是所有的控件路径都返回值
+  电子散射.vcxproj -> D:\程序\电子散射\x64\Debug\电子散射.exe
